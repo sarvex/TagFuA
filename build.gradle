@@ -38,7 +38,7 @@ dependencies {
 
     compile 'com.google.guava:guava:33.4.6-jre'
     compile 'org.apache.thrift:libthrift:0.19.0'
-    compile 'com.facebook.android:facebook-android-sdk:16.3.0'
+    compile 'com.facebook.android:facebook-android-sdk:18.0.2'
     compile 'com.noveogroup.android:android-logger:1.3.6'
     compile 'com.google.android.gms:play-services:7.0.0'
     compile 'com.commonsware.cwac:wakeful:1.2.3'
